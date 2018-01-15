@@ -6,3 +6,12 @@ figure, h1, p {
     text-align: center;
 }
 
+figure {
+    width: 70rem;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+}
+
